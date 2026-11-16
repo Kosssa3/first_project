@@ -7,3 +7,5 @@ if a == 12:
     score += 1
 else:
     print("Incorrect!")
+
+print("Stolicą województwa Wielkopolskiego jest?")
