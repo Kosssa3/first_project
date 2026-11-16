@@ -15,3 +15,9 @@ if b == "Poznań":
     score += 1
 else:
     print("Incorrect!")
+
+print(f"Score: {score} of 2")
+if score == 2:
+    print("What am I suppose to congratulate you?")
+elif score != 2:
+    print("Look maybe MAYBE you don't know how to use the polish letters but, that just proves you don't know the basics so GO BACK AND LEARN THEM!.")
