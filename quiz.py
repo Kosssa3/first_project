@@ -16,8 +16,8 @@ if b == "Poznań":
 else:
     print("Incorrect!")
 
-print(f"Score: {score} of 2")
+print("Score: %d of 2" % score)
 if score == 2:
-    print("What am I suppose to congratulate you?")
+    print("What am I suppose to congratulate you for knowing basics?")
 elif score != 2:
     print("Look maybe MAYBE you don't know how to use the polish letters but, that just proves you don't know the basics so GO BACK AND LEARN THEM!.")
